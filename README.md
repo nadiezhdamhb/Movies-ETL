@@ -6,10 +6,10 @@ For this analysis, I created an automated pipeline that takes in new data, perfo
 
 ### Process
 
-  1. Write an ETL Function to Read Three Data Files
-  2. Extract and Transform the Wikipedia Data
-  3. Extract and Transform the Kaggle Data
-  4. Create the Movie Database with two tables
+  Deliverable 1: Write an ETL Function to Read Three Data Files
+  Deliverable 2: Extract and Transform the Wikipedia Data
+  Deliverable 3: Extract and Transform the Kaggle Data
+  Deliverable 4: Create the Movie Database with two tables
 
 ### Results
 Using Python, I cleaned, merged datasets, and exported two new tables into PostgresSQL. 
@@ -27,14 +27,19 @@ Using Python, I cleaned, merged datasets, and exported two new tables into Postg
       Image HERE
 
 
-**Extract and Transform Wikipedia and Kaggle Data**
+**Extract and Transform Wikipedia, Kaggle, and rating data**
 Extract & Transform Wikipedia Data Image Here
 3 images
 
 
- **Create the Movie Database with two tables**
  
  Extract & Transform Kaggle Data Image Here
+ 1 or 2 images Here
+ 
+ 
+ 
+  
+ Extract & Transform rating Data Image Here
  1 or 2 images Here
  
  
@@ -46,8 +51,8 @@ at least 2 images here
 
 Three files were extracted:
   1. Wikipedia (json)
-  2. Kaggle Movie 
+  2. Kaggle Movies_metadata
   3. Kaggle Ratings
   
-Then I transformed and merged them. Both the movie and rating files were loaded into a PostSQLA movies and ratings file were loaded into a PostgreSQL database that can be easily accessed.
+Then I transformed and merged them. Both the movies and rating files were loaded into a PostSQLA movies and ratings file were loaded into a PostgreSQL database that can be easily accessed.
 
