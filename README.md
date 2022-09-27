@@ -6,10 +6,10 @@ For this analysis, I created an automated pipeline that takes in new data, perfo
 
 ### Process
 
-  Deliverable 1: Write an ETL Function to Read Three Data Files
-  Deliverable 2: Extract and Transform the Wikipedia Data
-  Deliverable 3: Extract and Transform the Kaggle Data
-  Deliverable 4: Create the Movie Database with two tables
+ - Deliverable 1: Write an ETL Function to Read Three Data Files
+ - Deliverable 2: Extract and Transform the Wikipedia Data
+ - Deliverable 3: Extract and Transform the Kaggle Data
+ - Deliverable 4: Create the Movie Database with two tables
 
 ### Results
 Using Python, I cleaned, merged datasets, and exported two new tables into PostgresSQL. 
