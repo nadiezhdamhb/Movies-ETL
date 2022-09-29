@@ -17,14 +17,14 @@ Using Python, I cleaned, merged datasets, and exported two new tables into Postg
 **Write an ETL Function to Read Three Data Files**
 
       1. File 1: wiki_movies_df
-      Image HERE
+      ![](https://github.com/nadiezhdamhb/Movies-ETL/blob/main/Resources/wiki_movies_df.png)
       
       2. File 2: kaggle_metadata
-      Image HERE
+      ![](https://github.com/nadiezhdamhb/Movies-ETL/blob/main/Resources/kaggle_metadata.png)
       
       
       3. File 3: ratings
-      Image HERE
+      ![](https://github.com/nadiezhdamhb/Movies-ETL/blob/main/Resources/ratings_image.png)
 
 
 **Extract and Transform Wikipedia, Kaggle, and rating data**
@@ -45,8 +45,13 @@ Extract & Transform Wikipedia Data Image Here
  
   **Create the Movie Database with two tables**
 
-at least 2 images here
- 
+![](https://github.com/nadiezhdamhb/Movies-ETL/blob/main/Resources/movies_query.png)
+
+
+
+![](https://github.com/nadiezhdamhb/Movies-ETL/blob/main/Resources/ratings_query.png)
+
+
  ### Summary
 
 Three files were extracted:
