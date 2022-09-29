@@ -31,18 +31,22 @@ Using Python, I cleaned, merged datasets, and exported two new tables into Postg
 
 
 Extract & Transform Wikipedia Data Image Here
-3 images
+![](https://github.com/nadiezhdamhb/Movies-ETL/blob/main/Resources/clean_wiki_movies_image.png)
+
+
+
+![](https://github.com/nadiezhdamhb/Movies-ETL/blob/main/Resources/wiki_movies_list.png)
 
 
  
  Extract & Transform Kaggle Data Image Here
- 1 or 2 images Here
+ ![](https://github.com/nadiezhdamhb/Movies-ETL/blob/main/Resources/movies_df.png)
  
  
  
   
  Extract & Transform rating Data Image Here
- 1 or 2 images Here
+ ![](https://github.com/nadiezhdamhb/Movies-ETL/blob/main/Resources/movies_with_ratings.png)
  
  
   **Create the Movie Database with two tables**
