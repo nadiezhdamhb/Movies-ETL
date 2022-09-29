@@ -28,6 +28,8 @@ Using Python, I cleaned, merged datasets, and exported two new tables into Postg
 
 
 **Extract and Transform Wikipedia, Kaggle, and rating data**
+
+
 Extract & Transform Wikipedia Data Image Here
 3 images
 
